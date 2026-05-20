@@ -1,0 +1,47 @@
+
+body {
+  background-color: rgb(207, 229, 236);
+  color: darkblue;
+}
+
+h1 {
+    color: rgb(255, 168, 47);
+    font-family: 'Curlz MT', sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+
+}
+
+section {
+  margin-bottom: 30px;
+  
+}
+
+h2 {
+    color: rgb(74, 46, 213);
+    font-family: 'Times new Roman', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+
+}
+h3 {
+  
+  color: red;
+  font-size: 15px;
+}
+
+
+img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+}
+
+ .experience li {
+  background-color: #95c396;
+   margin-bottom: 15px;
+  padding: 10px;
+   border-radius: 10px;
+  list-style: none;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
